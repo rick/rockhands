@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+
+puts "   .-.           .-. "
+puts "   |U|           |U| "
+puts "   | |           | | "
+puts "   | |-._.-.-._.-| | "
+puts "   | | | | | | | | | "
+puts "  /|       |     |  \\ "
+puts " | |       |     |   |"
+puts " |         |         |"
+puts " \\         |         /"
+puts "  |        |        | "
+puts "  |        |        | "
+puts "                      "
