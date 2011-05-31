@@ -26,7 +26,8 @@ Gem::Specification.new do |s|
     "bin/roock",
     "bin/shocker",
     "bin/ummmm",
-    "pkg/.gitignore"
+    "pkg/.gitignore",
+    "rockhands.gemspec"
   ]
   s.homepage = %q{http://github.com/rick/rockhands}
   s.require_paths = ["lib"]
