@@ -15,7 +15,7 @@ Rock and Roll, holstered at all times.
   /|     ` | 
  | |       | 
  |         | 
-          / 
+  \        / 
   |       |  
   |       |  
              
@@ -27,7 +27,7 @@ Rock and Roll, holstered at all times.
    / )|_|_|-|  
   | | `-^-^ |  
   |     ||  |  
-       '   /  
+  \     '   /  
    |       |   
    |       |   
                
