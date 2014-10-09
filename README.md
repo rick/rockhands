@@ -1,6 +1,6 @@
 Rock and Roll, holstered at all times.
 
-
+```
 % gem install rockhands
 
 
@@ -65,6 +65,8 @@ Rock and Roll, holstered at all times.
       |           |      
       |           |      
       |           |  
+
+```
 
 CREDITS:
 
